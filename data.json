@@ -20,8 +20,8 @@
       "seoDescription": "Check current Nightwin Withdrawal speeds. Learn how verification works, avoid payout delays, and follow our Nightwin Payment tips for fast, secure cashouts.",
       "htmlHead": "<link rel=\"canonical\" href=\"https://nightwincasinos.co.uk/en-gb/payment/\"/>\n<link rel=\"alternate\" href=\"https://nightwincasinos.co.uk/payment/\" hreflang=\"x-default\" />\n<link rel=\"alternate\" href=\"https://nightwincasinos.co.uk/payment/\" hreflang=\"en\" />\n<link rel=\"alternate\" href=\"https://nightwincasinos.co.uk/en-gb/payment/\" hreflang=\"en-gb\" />\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Nightwin Casino Payment Methods – Fast Deposits & Withdrawal\">\n<meta property=\"og:description\" content=\"Check current Nightwin Withdrawal speeds. Learn how verification works, avoid payout delays, and follow our Nightwin Payment tips for fast, secure cashouts.\">\n<meta property=\"og:url\" content=\"https://nightwincasinos.co.uk/payment/\">\n<meta property=\"og:site_name\" content= \"Nightwin Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Nightwin Casino Payment Methods – Fast Deposits & Withdrawal\">\n<meta name=\"twitter:description\" content=\"Check current Nightwin Withdrawal speeds. Learn how verification works, avoid payout delays, and follow our Nightwin Payment tips for fast, secure cashouts.\">",
       "gptPrompt": "",
-      "heroTitle": "Nightwin Casino Payment Methods, Instant Deposits & Fast Withdrawals",
-      "heroSubtitle": "Instant Deposits & Fast Payouts",
+      "heroTitle": "Nightwin Casino: Instant Deposits & Fast Payouts",
+      "heroSubtitle": "Fast Deposits & Withdrawal",
       "heroBadge": "Fast & Secure Payments",
       "ctaText": "Play Now",
       "tagline": "Top up your balance instantly via cards, e-wallets, or crypto and cash out your winnings without delays.",
@@ -576,8 +576,8 @@
       "question": "How do I complete the Nightwin Sign Up process? "
     }
   ],
-  "_generated_at": "2026-11-18T12:08:51.758Z",
+  "_generated_at": "2026-11-18T12:16:56.882Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T12:08:52.463Z",
-  "_deploy_trigger": "y18voc"
+  "_last_deploy": "2026-11-18T12:16:57.511Z",
+  "_deploy_trigger": "1j7w9u"
 }
