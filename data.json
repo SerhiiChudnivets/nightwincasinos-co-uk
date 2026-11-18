@@ -25,7 +25,7 @@
       "heroBadge": "Fast & Secure Payments",
       "ctaText": "Play Now",
       "tagline": "Top up your balance instantly via cards, e-wallets, or crypto and cash out your winnings without delays.",
-      "heroImage": "/uploads/nightwin-payment-baner.webp",
+      "heroImage": "/uploads/nightwin-payment.webp",
       "template": "minimal",
       "isHomepage": false,
       "order": 0,
@@ -576,8 +576,8 @@
       "question": "How do I complete the Nightwin Sign Up process? "
     }
   ],
-  "_generated_at": "2026-11-18T12:02:03.693Z",
+  "_generated_at": "2026-11-18T12:08:51.758Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T12:02:04.409Z",
-  "_deploy_trigger": "hgjy8"
+  "_last_deploy": "2026-11-18T12:08:52.463Z",
+  "_deploy_trigger": "y18voc"
 }
