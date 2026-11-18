@@ -421,6 +421,18 @@
   },
   "header_menu": [
     {
+      "link": "/payment/",
+      "label": "Payment",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/app/",
+      "label": "App",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
       "link": "/play/",
       "label": "Bonuses",
       "submenu": [],
@@ -434,19 +446,7 @@
     },
     {
       "link": "/play/",
-      "label": "Payment",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
       "label": "Login",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/app/",
-      "label": "App",
       "submenu": [],
       "openInNewTab": false
     }
@@ -576,8 +576,8 @@
       "question": "How do I complete the Nightwin Sign Up process? "
     }
   ],
-  "_generated_at": "2026-11-18T11:58:29.822Z",
+  "_generated_at": "2026-11-18T12:02:03.693Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T11:58:30.522Z",
-  "_deploy_trigger": "pvhhwr"
+  "_last_deploy": "2026-11-18T12:02:04.409Z",
+  "_deploy_trigger": "hgjy8"
 }
