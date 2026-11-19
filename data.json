@@ -409,7 +409,7 @@
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#21176b",
+  "cta_background": "#8f5ec4",
   "logo": {
     "url": "/uploads/nightwin-logo.svg"
   },
@@ -576,8 +576,8 @@
       "question": "How do I complete the Nightwin Sign Up process? "
     }
   ],
-  "_generated_at": "2026-11-18T16:23:45.421Z",
+  "_generated_at": "2026-11-19T09:58:55.428Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T16:23:46.157Z",
-  "_deploy_trigger": "mue73"
+  "_last_deploy": "2026-11-19T09:58:56.155Z",
+  "_deploy_trigger": "5wsraf"
 }
